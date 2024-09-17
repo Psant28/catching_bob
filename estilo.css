@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+}
+
+#bob{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    box-sizing: border-box;
+}
